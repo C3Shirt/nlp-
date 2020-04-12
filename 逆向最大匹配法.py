@@ -33,3 +33,10 @@ def main():
     tokenizer = IMM('I:\py_NLP\imm_dic.utf8')
     print(tokenizer.cut(text))
 main()
+'''
+南京市
+南京市长
+长江大桥
+人名解放军
+大桥
+'''
